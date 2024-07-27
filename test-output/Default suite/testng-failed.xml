@@ -6,7 +6,7 @@
       <class name="Native_App.Api_demos">
         <methods>
           <include name="setup"/>
-          <include name="opennotifications"/>
+          <include name="switchapp"/>
         </methods>
       </class> <!-- Native_App.Api_demos -->
     </classes>
